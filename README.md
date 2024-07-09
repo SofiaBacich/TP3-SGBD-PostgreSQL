@@ -29,4 +29,6 @@
 #### 3.6.py y su carpeta
 <p> Este punto requiere la utilización de los archivos existentes para crear un GeoDataFrame que servirá para poder crear varios gráficos (Mapa Choropleth) según lo pedido </p>
 
-
+<img align="center" src="PBI.png">
+<img align="center" src="Poblacion Mundial.png">
+<img align="center" src="Sitios Web.png">
