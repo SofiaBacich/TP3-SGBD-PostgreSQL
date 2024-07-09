@@ -1,4 +1,4 @@
-# TP3-SGBD: Análisis de Tweets con MongoDB
+# TP3-SGBD: PostgreSQL world
 <h4> Trabajo práctico 3 de Sistemas de Gestión de Base de Datos. </h4>
 
 ## Descripción
