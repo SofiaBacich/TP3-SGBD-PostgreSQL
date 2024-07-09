@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.PLpghSQL linguist-detectable=false
+*.PLpgSQL linguist-detectable=false
